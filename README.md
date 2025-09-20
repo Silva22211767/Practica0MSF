@@ -2,7 +2,7 @@
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Infromación del\la estudiante
+## Infromación de la estudiante
 Karla Emilia Silva Perez \[22211767]; l22211767@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
